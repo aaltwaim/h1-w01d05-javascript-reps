@@ -30,15 +30,15 @@ c = a;
 ### Your solution here:
 1.  What is `a`?
 ```
-a is (your answer here)
+a is (bongos)
 ```
 2.  What is `b`?
 ```
-b is (your answer here)
+b is (true)
 ```
 3.  What is `c`?
 ```
-c is (your answer here)
+c is (bongos)
 ```
 
 Now run it and don't update your answers above.  Any surprises?  Don't worry about submitting wrong answers, it's all good :3
@@ -60,7 +60,7 @@ Result should be:
 ```
 
 ```js
-// your answer here
+console.log(firstWord+" "+secondWord+" "+thirdWord+" "+fourthWord);
 ```
 
 ## 3 - Variable Assignments
@@ -75,7 +75,7 @@ var num2 = 10;
 Let's do this in parts:
 1. How can we make `num3` equal to the sum of `num1` and `num2`?
 ```js
-// your solution here
+var num3 = num1 +num2;
 ```
 2. Use variables `num1`, `num2` and `num3` to fill in the `console.log()` to complete the sentence: 
 
